@@ -10,7 +10,4 @@
 
 @interface ResourceMapItem : BaseView
 
-
-
-
 @end
